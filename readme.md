@@ -24,25 +24,23 @@ A fun, 2D space shooter game built using Python and Pygame. The player controls 
    ```
 
 2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Run the game:
-
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 ---
 
 ### `requirements.txt`
-```text
-pygame==2.6.1
-```
+   ```text
+   pygame==2.6.1
+   ```
 
 .gitignore
-```bash
+```text
 # Python bytecode files
 __pycache__/
 *.pyc
