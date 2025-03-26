@@ -23,13 +23,13 @@ A fun, 2D space shooter game built using Python and Pygame. The player controls 
    cd space-shooter
    ```
 
-Install dependencies:
+2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the game:
+3. Run the game:
 
 ```bash
 python main.py
@@ -95,7 +95,6 @@ How to Use:
 Clone the repository and open the project folder in your terminal.
 
 Install dependencies using the requirements.txt file by running the following:
-
 ```bash
 pip install -r requirements.txt
 ```
