@@ -1,13 +1,11 @@
 # Space Shooter Game
 
-A fun, 2D space shooter game built using Python and Pygame. The player controls a wizard shooting at enemies, avoiding obstacles, and collecting points. The game features multiple levels and a leaderboard.
+A fun, 2D space shooter game built using Python and Pygame. The player controls a ship shooting at enemies, avoiding obstacles, and collecting points. The game features multiple levels and a leaderboard.
 
 ## Features
 - Simple and addictive gameplay
-- Player character: Wizard
-- Enemies: Roaches and other bug variants
-- Levels: Kitchen, Wizard Chamber, Dumpster
-- Game Over screen with option to restart
+- Player character: Ship
+- Game Over screen
 - Score tracking and leaderboard
 - Background and title images
 
