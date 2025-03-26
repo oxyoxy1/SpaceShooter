@@ -9,6 +9,11 @@ A fun, 2D space shooter game built using Python and Pygame. The player controls 
 - Score tracking and leaderboard
 - Background and title images
 
+## Screenshots <br>
+![Menu](screenshots/menu.PNG) <br>
+![Game](screenshots/game.PNG) <br>
+![Leaderboard](screenshots/leaderboard.PNG) 
+
 ## Requirements
 - Python 3.x
 - Pygame 2.x
