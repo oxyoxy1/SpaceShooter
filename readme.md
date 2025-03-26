@@ -15,7 +15,7 @@ A fun, 2D space shooter game built using Python and Pygame. The player controls 
 - Python 3.x
 - Pygame 2.x
 
-## Installation
+## Installation Method One (Cloning)
 
 1. Clone the repository:
    ```bash
@@ -32,6 +32,13 @@ A fun, 2D space shooter game built using Python and Pygame. The player controls 
    ```bash
    python main.py
    ```
+
+## Installation Method Two (Binary)
+
+1. Download binaries + assets
+2. Arrange as so:
+   ![Tree](screenshots/tree.png)
+3. Run Space Shooter.exe
 ---
 
 ### `requirements.txt`
