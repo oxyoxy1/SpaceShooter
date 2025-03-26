@@ -36,7 +36,7 @@ A fun, 2D space shooter game built using Python and Pygame. The player controls 
 ## Installation Method Two (Binary)
 
 1. Download binaries + assets
-2. Arrange as so:
+2. Arrange as so: <br>
 ![Tree](screenshots/tree.PNG)
 3. Run Space Shooter.exe
 ---
