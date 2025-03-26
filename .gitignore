@@ -1,0 +1,22 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Pygame and other generated files
+*.log
+*.bak
+*.swp
+
+# Virtual environment folder
+venv/
+
+# VSCode settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Mac system files
+.DS_Store
